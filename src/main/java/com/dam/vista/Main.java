@@ -5,6 +5,7 @@ public class Main {
     static void main() {
 
         IO.println("Hola Git!!");
+        IO.println("Adios Git!!");
 
     }
 
